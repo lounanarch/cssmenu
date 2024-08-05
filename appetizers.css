@@ -1,0 +1,33 @@
+.card{
+    width:300px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin:10px
+}
+.card-image{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.card-content {
+    padding: 5px;
+}
+.card-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.card-description{
+    margin-top: 10px;
+}
+.card-button {
+    background-color: rgb(213, 198, 227);
+    
+}
+button:hover{
+    color: rgb(168, 168, 240);
+}
+h3{
+    font-size: 20px;
+    color:rgb(243, 114, 181)
+}
